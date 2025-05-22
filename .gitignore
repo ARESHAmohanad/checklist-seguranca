@@ -1,0 +1,109 @@
+# Arquivos de byte-compiled / otimizados / DLL
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Diretórios de ambiente virtual
+venv/
+env/
+ENV/
+.env
+.venv
+env.bak/
+venv.bak/
+pythonenv*
+
+# Diretórios e arquivos específicos do Flask
+instance/
+.webassets-cache
+flask_session/
+.flaskenv
+
+# Distribuição / embalagem
+dist/
+build/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Arquivos de teste / coverage
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Arquivos de log
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Arquivos específicos do Tkinter
+# Geralmente não há arquivos específicos do Tkinter para ignorar,
+# mas pode-se adicionar arquivos de configuração ou recursos se necessário
+
+# Arquivos temporários gerados pelo sistema
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Diretórios e arquivos de IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+.classpath
+
+# Arquivos de banco de dados
+*.db
+*.sqlite
+
+# Arquivos de configuração que podem conter informações sensíveis
+config.ini
+secrets.json
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Arquivos de migração do banco de dados (específicos do Flask)
+migrations/
+
+# Arquivos estáticos compilados
+*.min.css
+*.min.js
+
+# Arquivos de upload e mídia (específicos do Flask)
+uploads/
+media/
+
+# Cache do Jupyter Notebook
+.ipynb_checkpoints
+
+# Arquivos de configuração específicos do pyenv
+.python-version
