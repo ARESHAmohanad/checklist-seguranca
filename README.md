@@ -82,7 +82,7 @@ Para desenvolvedores ou usuários avançados que desejam personalizar ou estende
 
 3. **Clone do Repositório**:
    ```bash
-   git clone https://github.com/sua-organizacao/checklist-seguranca.git
+   git clone https://github.com/ARESHAmohanad/checklist-seguranca.git
    cd checklist-seguranca
    ```
 
@@ -286,12 +286,11 @@ R: Sim, desenvolvedores podem modificar o arquivo `app.py` para adicionar, remov
 Para suporte técnico ou dúvidas sobre o uso do aplicativo, entre em contato com:
    https://github.com/LTD-2025-1-Cyber-Security-Project/ciberseguranca/tree/delete/main/iso
 **Equipe de Segurança da Informação**  
-Email: seguranca@suaorganizacao.gov.br  
-Telefone: (48) 9 9999-9999
+Email: mhndrysht2@gmail.com
 
 **Encarregado de Proteção de Dados (DPO)**  
 Email: contato@LTD-2025-1-Cyber-Security-Project.com.br  
-Telefone: (48) 9 9999-9999
+
 
 ---
 
